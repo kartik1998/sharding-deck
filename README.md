@@ -24,3 +24,7 @@
 ## Horizontal Partitioning Vs Sharding
 
 ![Untitled](assets/hp-vs-sharding.png)
+
+## Code example
+
+- run `docker build -t pgshard .` to setup your first shard
